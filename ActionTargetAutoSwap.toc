@@ -1,4 +1,4 @@
-## Interface: 110107
+## Interface: 110007
 ## Title: Action Target Auto Swap
 ## Notes: Automatically changes to Action Targeting when inside of a dungeon!
 ## Author: Eyevou
