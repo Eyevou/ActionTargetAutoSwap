@@ -1,4 +1,4 @@
--- English(US) Localization by Eyevou (Twitter: @_Eyevou)
+-- English(US) Localization by Eyevou (Patreon: https://www.patreon.com/Eyevou)
 -- English(US) is the Default/fallback language. 
 -- Please check enGB.lua for correct translation structure.
 
